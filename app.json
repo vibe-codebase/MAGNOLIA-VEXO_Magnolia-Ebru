@@ -16,7 +16,7 @@
     },
     "android": {
       "package": "com.magnoliavexo.magnoliaebru",
-      "versionCode": 1,
+      "versionCode": 2,
       "permissions": [
         "android.permission.VIBRATE"
       ],
